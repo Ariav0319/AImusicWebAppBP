@@ -1,0 +1,28 @@
+body{
+    background-size:cover;
+}
+.heading{
+    font-size:25px;
+    width:100%;
+    margin:0px;
+}
+.note{
+    font-size:15px;
+    color:black;
+}
+#songName{
+    font-size:20px;
+}
+canvas{
+    border:5px solid hotpink;
+    border-radius: 5px;
+}
+.copy_right_footer{
+    position:fixed;
+    color:lightpink;
+    bottom:0;
+    width: 100%;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+}
